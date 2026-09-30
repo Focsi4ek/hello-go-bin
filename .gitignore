@@ -1,0 +1,7 @@
+/hello-go
+/hello-go.exe
+/hello-go-*
+.env
+.idea/
+.vscode/
+*.iml
